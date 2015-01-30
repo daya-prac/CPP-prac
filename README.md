@@ -1,0 +1,2 @@
+# CPP-prac
+exercise python
