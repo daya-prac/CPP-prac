@@ -1,2 +1,2 @@
 # CPP-prac
-exercise python
+exercise C PLUS PLUS
